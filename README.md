@@ -10,7 +10,7 @@ What I Did:
 
 Followed the step-by-step instructions from the Codelab.
 
-Implemented Material Design components in Flutter.
+Implemented Material Design components, structure and layout in Flutter.
 
 Customized and tested UI elements.
 
